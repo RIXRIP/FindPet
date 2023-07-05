@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c7dc7d7-cfa1-4086-a608-e52851f74746" name="Changes" comment="final" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="400eb35f-b743-4f1a-ae5b-6552e4833048" />
+        <option name="url" value="https://github.com/RIXRIP/animals.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PVrNzlTU91g31DU7ch2O0WHmdZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/repos/pets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\animals\pets\src\Reusable" />
+      <recent name="C:\Users\vlads\Desktop\animals\pets\src\components\Map\AnimalPageMap" />
+      <recent name="C:\Users\vlads\Desktop\animals\pets\src\components\Map" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\animals\pets\src" />
+      <recent name="D:\animals\pets\src\client" />
+      <recent name="D:\animals\pets\src\components\Main\Catalog\Pets" />
+      <recent name="D:\animals\pets\src\Reusable" />
+      <recent name="D:\animals\pets\src\components\Main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="server">
+      <created>1683481558355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683481558355</updated>
+    </task>
+    <task id="LOCAL-00002" summary="server">
+      <created>1683482185581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683482185581</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c7dc7d7-cfa1-4086-a608-e52851f74746" name="Changes" comment="server" />
+      <created>1683553057455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683553057455</updated>
+      <workItem from="1683553058976" duration="248000" />
+      <workItem from="1683553339078" duration="200000" />
+      <workItem from="1683559372099" duration="19375000" />
+      <workItem from="1683587621951" duration="18921000" />
+      <workItem from="1683746816817" duration="11029000" />
+      <workItem from="1683854912803" duration="22660000" />
+      <workItem from="1684068701469" duration="22060000" />
+      <workItem from="1684203304083" duration="1913000" />
+      <workItem from="1684205488256" duration="2075000" />
+      <workItem from="1684256449068" duration="16538000" />
+      <workItem from="1684280138533" duration="6264000" />
+      <workItem from="1684296439291" duration="7206000" />
+      <workItem from="1684308994517" duration="2633000" />
+      <workItem from="1684319512803" duration="14000" />
+      <workItem from="1684320348711" duration="168000" />
+      <workItem from="1684320918527" duration="609000" />
+      <workItem from="1684384208965" duration="25000" />
+      <workItem from="1684393268347" duration="3240000" />
+      <workItem from="1684425266104" duration="34000" />
+      <workItem from="1684465837044" duration="7128000" />
+      <workItem from="1684567455323" duration="609000" />
+      <workItem from="1684577283533" duration="51000" />
+      <workItem from="1684582450509" duration="991000" />
+      <workItem from="1684612970837" duration="1038000" />
+      <workItem from="1684683650111" duration="541000" />
+      <workItem from="1684873602897" duration="1170000" />
+      <workItem from="1684875043173" duration="2379000" />
+      <workItem from="1684912367755" duration="17246000" />
+      <workItem from="1685021527532" duration="8886000" />
+      <workItem from="1685040821513" duration="5901000" />
+      <workItem from="1685120987966" duration="2391000" />
+      <workItem from="1685123423337" duration="10195000" />
+      <workItem from="1685205097481" duration="7008000" />
+      <workItem from="1685212779927" duration="737000" />
+      <workItem from="1685219455102" duration="4964000" />
+      <workItem from="1685224943664" duration="498000" />
+      <workItem from="1685300932158" duration="924000" />
+      <workItem from="1685373602315" duration="1831000" />
+      <workItem from="1685379404836" duration="610000" />
+      <workItem from="1685380858788" duration="1291000" />
+      <workItem from="1685382452589" duration="9997000" />
+      <workItem from="1685561880511" duration="5000" />
+      <workItem from="1685909016600" duration="488000" />
+      <workItem from="1685919947149" duration="4000" />
+      <workItem from="1686006916727" duration="6550000" />
+      <workItem from="1686206999957" duration="51000" />
+      <workItem from="1686207240900" duration="325000" />
+      <workItem from="1686269850760" duration="3169000" />
+      <workItem from="1686273647255" duration="543000" />
+      <workItem from="1686274353461" duration="3746000" />
+      <workItem from="1686316004445" duration="11639000" />
+      <workItem from="1686490265441" duration="18091000" />
+      <workItem from="1686632854112" duration="739000" />
+      <workItem from="1686673654964" duration="344000" />
+      <workItem from="1686675605410" duration="1497000" />
+      <workItem from="1686739819358" duration="596000" />
+      <workItem from="1687123445726" duration="4000" />
+      <workItem from="1687368633957" duration="10481000" />
+      <workItem from="1687427920177" duration="39000" />
+      <workItem from="1687436780881" duration="2942000" />
+      <workItem from="1687478468081" duration="1216000" />
+      <workItem from="1687510584258" duration="821000" />
+      <workItem from="1687522075177" duration="2869000" />
+      <workItem from="1687546008238" duration="6652000" />
+      <workItem from="1687700172976" duration="383000" />
+      <workItem from="1687701474761" duration="550000" />
+      <workItem from="1687702061785" duration="5000" />
+      <workItem from="1687703256542" duration="449000" />
+      <workItem from="1687728138733" duration="2877000" />
+      <workItem from="1687760459197" duration="970000" />
+      <workItem from="1687888538468" duration="3000" />
+      <workItem from="1688577342410" duration="264000" />
+    </task>
+    <task id="LOCAL-00003" summary="map">
+      <created>1684320388967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684320388968</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final">
+      <created>1687565575335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687565575335</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final">
+      <created>1687565646884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687565646884</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="server" />
+    <MESSAGE value="map" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
+  </component>
+</project>

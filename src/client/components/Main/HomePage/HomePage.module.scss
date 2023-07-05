@@ -1,0 +1,83 @@
+.container {
+  display: flex;
+}
+
+.announcement {
+  height: 250px;
+  width: 400px;
+  background: #3a3f58;
+  margin: 20px auto;
+  border-radius: 20px;
+}
+
+.title {
+  margin: 15px 0px;
+  font-size: 40px;
+}
+
+.text {
+  margin-bottom: 10px;
+  width: 700px;
+  font-size: 28px;
+}
+
+.announcementText {
+  text-align: center;
+  display: block;
+  padding: 10px;
+  color: #ffffff;
+  height: 100%;
+  margin: auto;
+  font-size: 24px;
+}
+
+.btn {
+  cursor: pointer;
+  background-color: #e6edff;
+  margin: 10px;
+  border: 1px solid #6e6e6e;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 10px;
+  vertical-align: center;
+}
+.btn:hover{
+  background-color: #c8d5fc;
+  border: 1px solid #6e6e6e;
+}
+.status {
+  color: red;
+}
+
+.description {
+  width: 100%;
+  height: 150px;
+  resize: none;
+}
+
+.animalPhoto {
+  width: 400px;
+  height: auto;
+}
+
+.modalContent {
+  display: block;
+  justify-content: center;
+
+  input {
+    border-radius: 5px;
+    border: 1px black solid;
+    margin: 4px 0px;
+    padding: 5px;
+    width: 100%;
+  }
+}
+
+.aboutWrapper {
+  text-align: justify;
+  display: flex;
+  img{
+    width: 700px;
+  }
+}
+

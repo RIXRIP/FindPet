@@ -1,0 +1,65 @@
+.header {
+    display:flex;
+    margin-bottom: 10px;
+    height: 75px;
+}
+
+.logo {
+    width: auto;
+    margin: auto 10px ;
+    font-size: 25px;
+    text-decoration:none;
+    color: black;
+    h4{
+        font-family: Montserrat, sans-serif;
+    margin: 0;
+}
+}
+.logoImg{
+    height: 70px;
+}
+.personalAuth{
+    margin-left: auto;
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+
+}
+.navAuth{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.authNav{
+    display: flex;
+}
+.personal{
+    margin: auto 10px ;
+    text-transform: uppercase;
+    color: black;
+    cursor: pointer;
+    width: auto;
+    text-decoration:none;
+    font-size: 23px;
+    p {
+        margin: 0;
+    }
+}
+.auth{
+    text-transform: uppercase;
+    margin-left:5px ;
+    margin-right:5px ;
+    text-decoration:none;
+    color: black;
+    cursor: pointer;
+    width: auto;
+}
+.auth:hover{
+
+    border-bottom: 1px black solid;
+    opacity: 75%;
+}

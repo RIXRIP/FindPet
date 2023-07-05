@@ -1,0 +1,48 @@
+
+.item {
+  padding: 10px;
+}
+
+.item_1 {
+  margin: 1px;
+}
+
+.animalButtons {
+  cursor: pointer;
+  text-align: start;
+  border: 1px #3d3d3d solid;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  font-size: 17px;
+  background-color: #ece6cd;
+}
+
+.animalPhoto {
+  border-radius: 10px;
+  padding-top: 3px;
+  display: flex;
+  width: 210px;
+  height: 155px;
+}
+
+.deleteBtn {
+  padding: 5px;
+  border-radius: 7px;
+  border: 1px solid red;
+  display: flex;
+  margin-right: auto;
+  color: red;
+  margin-right: 5px;
+}
+.editBtn {
+  padding: 5px;
+  border-radius: 7px;
+  border: 1px solid #2078ff;
+  display: flex;
+  margin-right: auto;
+  color: #2078ff;
+}
+.btnPanel{
+  display: flex;
+  justify-content: right;
+}
