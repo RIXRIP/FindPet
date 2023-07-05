@@ -8,7 +8,6 @@ const Register = (props) => {
     const navigate = useNavigate()
     const [email, setEmail] = useState('')
     const [password, setPassword] = useState('')
-    const [status, setStatus] = useState(false)
 
     const registerUser = (e) => {
         e.preventDefault()

@@ -3,13 +3,13 @@ import {useEffect} from "react";
 import {authTC} from "./redux/auth-reducer";
 import styles from "./App.module.css"
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
-import HeaderContainer from "./Reusable/Header/HeaderContainer";
+import HeaderContainer from "./components/Header/HeaderContainer";
 import HomePageContainer from "./components/Main/HomePage/HomePageContainer";
 import PersonalContainer from "./components/Main/Personal/PersonalContainer";
 import AnimalPageContainer from "./components/Main/AnimalPage/AnimalPageContainer";
 import LoginContainer from "./components/Main/Login/LoginContainer";
 import RegisterContainer from "./components/Main/Register/RegisterContainer";
-import Footer from "./Reusable/Footer/Footer";
+import Footer from "./components/Footer/Footer";
 import CatalogContainer from "./components/Main/Catalog/Pets/CatalogContainer";
 
 const App = (props) => {

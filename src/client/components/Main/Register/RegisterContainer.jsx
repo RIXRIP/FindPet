@@ -6,7 +6,6 @@ import {compose} from "redux";
 
 
 const RegisterContainer = (props) => {
-
     const register = (login, password) => {
         props.registerUserTC({login, password})
     }

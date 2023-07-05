@@ -22,8 +22,6 @@ const Catalog = (props) => {
 
             <SidebarUser/>
             <div>
-
-
                 <div className={styles.pagination}>
                     {portionNumber > 1 &&
                         <button className={styles.btn} onClick={() => {

@@ -7,14 +7,12 @@ const Login = (props) => {
     const loginUser = (e) => {
         e.preventDefault()
         props.login(e.target[0].value, e.target[1].value);
-        if(props.isActivated)
-        if(localStorage.length !== 0){
-            alert("Авторизация не выполнена")
-        }
-        else {
-            navigate("/")
-        }
-
+        if (props.isActivated)
+            if (localStorage.length !== 0) {
+                alert("Авторизация не выполнена")
+            } else {
+                navigate("/")
+            }
     }
     return (
         <div className={styles.content}>

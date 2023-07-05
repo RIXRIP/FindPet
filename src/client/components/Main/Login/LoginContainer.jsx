@@ -6,7 +6,6 @@ import {compose} from "redux";
 
 
 const LoginContainer = (props) => {
-
     const login = (email, pass) => {
         props.loginTC(email, pass);
     }
