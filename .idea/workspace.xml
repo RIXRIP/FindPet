@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c7dc7d7-cfa1-4086-a608-e52851f74746" name="Changes" comment="final">
-      <change beforePath="$PROJECT_DIR$/src/client/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Reusable/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Reusable/Footer/Footer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Footer/Footer.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Reusable/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Reusable/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Header/Header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/Reusable/Header/HeaderContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Header/HeaderContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/components/Main/Catalog/Pets/Catalog.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Main/Catalog/Pets/Catalog.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/components/Main/Login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Main/Login/Login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/components/Main/Login/LoginContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Main/Login/LoginContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/components/Main/Register/Register.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Main/Register/Register.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/components/Main/Register/RegisterContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/components/Main/Register/RegisterContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/repos/pets&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/repos/pets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\animals\pets\src\Reusable" />
@@ -68,11 +61,11 @@
       <recent name="C:\Users\vlads\Desktop\animals\pets\src\components\Map" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repos\pets\public" />
       <recent name="D:\repos\pets\src\client\components" />
       <recent name="D:\animals\pets\src" />
       <recent name="D:\animals\pets\src\client" />
       <recent name="D:\animals\pets\src\components\Main\Catalog\Pets" />
-      <recent name="D:\animals\pets\src\Reusable" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -170,6 +163,9 @@
       <workItem from="1687888538468" duration="3000" />
       <workItem from="1688577342410" duration="264000" />
       <workItem from="1688582094609" duration="229000" />
+      <workItem from="1688756196922" duration="734000" />
+      <workItem from="1689182392371" duration="14000" />
+      <workItem from="1689243685916" duration="805000" />
     </task>
     <task id="LOCAL-00003" summary="map">
       <created>1684320388967</created>
